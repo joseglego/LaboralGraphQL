@@ -2,7 +2,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const mongo = require('./controllers/mongo');
+const mongo = require('./data/mongo');
 const registerRoutes = require('./routes');
 
 //Configuración

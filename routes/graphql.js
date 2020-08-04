@@ -1,5 +1,4 @@
 const graphqlHTTP = require('express-graphql');
-const db = require("../controllers/db");
 const { buildSchema } = require('graphql');
 const router = require("express").Router();
 

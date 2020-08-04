@@ -6,7 +6,7 @@ const graphql = require('./graphql');
  * @param {Express.Application} app Aplicación de Express
  * @returns {void}
  */
-const register = function(app) {
+const register = (app) => {
   app.use('/graphql', graphql);
 };
 
