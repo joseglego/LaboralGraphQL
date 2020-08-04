@@ -1,3 +1,10 @@
+# Config NGINX
+
+```
+/etc/nginx/conf.d/laboral.conf
+```
+
+
 # API Laboral
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
