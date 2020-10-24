@@ -10,6 +10,15 @@
 
 API Construida con `Graphql` que permite el consumo de datos etadisticos de uso de las tecnologias y skill solicitados en las diferentes ofertas laborales en el mercado de la tecnológia
 
+## How to Contribute?
+- We use Node `12.16.2`
+- We use a `config.js` for environment variables. Copy and paste the reference file `config.js.example`. The values Are:
+  - db
+    - DB_USER
+    - DB_PASSWORD
+    - DB_HOST
+    - DB_NAME
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
